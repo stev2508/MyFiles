@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 0,
+        "title" : "smile",
+        "description" : "",
+        "image" : "https://i-viaplay-com.akamaized.net/viaplay-prod/701/672/1669295285-278ff11ccdd5ce61ed4defd51d9bb48b209a0227.jpg?width=400&height=600",
+        "category" : "horror, mystery, thriller"
+        
+    },
+    {
+        "id" : 1,
+        "title" : "the nun",
+        "description" : "",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_.jpg",
+        "category" : "horror, mystery, thriller"
+        
+    },
+    {
+        "id" : 2,
+        "title" : "gladiator",
+        "description" : "",
+        "image" : "https://img.fruugo.com/product/0/60/14417600_max.jpg",
+        "category" : "action, adventure, drama"
+        
+    },
+    {
+        "id" : 3,
+        "title" : "the matrix",
+        "description" : "",
+        "image" : "https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "category" : "action, sci-fi"
+        
+    },
+    {
+        "id" : 4,
+        "title" : "black adam",
+        "description" : "",
+        "image" : "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+        "category" : "action, adventure, fantasy"
+        
+    }
+    
+    
+    ]
